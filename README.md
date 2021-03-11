@@ -20,4 +20,4 @@ Test Case 3: Key presses on Menu(Record key presses and reactions on the screen)
 
 
 
-Tools / Languages used: Eclipse IDE, TestNG, Selenium WebDriver, ChromeDriver, Java JDK
+Environment: Eclipse IDE, TestNG, Selenium WebDriver, ChromeDriver, Java JDK
